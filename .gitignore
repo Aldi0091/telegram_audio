@@ -1,0 +1,7 @@
+__pycache__/
+venv
+conf.py
+data_thief.session
+bot.session
+bot.session-journal
+data_thief.session-journal
